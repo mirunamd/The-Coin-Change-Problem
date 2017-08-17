@@ -26,10 +26,8 @@ The second line contains m space-separated integers describing the respective va
 You can solve this problem recursively but will not pass all the test cases without optimizing to eliminate the overlapping subproblems. Think of a way to store and reference previously computed solutions to avoid solving the same subproblem multiple times.
 
 - Consider the degenerate cases: 
-
- - How many ways can you make change for  cents?
- 
- - How many ways can you make change for  cents if you have no coins?
+    - How many ways can you make change for  cents?
+    - How many ways can you make change for  cents if you have no coins?
 
 - If you're having trouble defining your solutions store, then think about it in terms of the base case .
 
