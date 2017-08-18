@@ -70,7 +70,7 @@ Thus, we print 4 as our answer.
 
 > 5
 
-** Explanation 1**
+**Explanation 1**
 
 There are five ways to make change for  units using coins with values given by C = {2, 3, 5, 6}:
 
